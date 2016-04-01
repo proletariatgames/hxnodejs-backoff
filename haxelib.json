@@ -6,7 +6,7 @@
   "tags": ["nodejs", "exponential", "fibonacci", "retry", "backoff"],
   "description": "Externs for the backoff NPM module",
   "releasenote": "Initial release",
-  "version": "2.5.0",
+  "version": "2.5.0-alpha",
   "contributors": ["Proletariat", "lpetre", "danogles", "waneck"],
   "dependencies": {
     "hxnodejs": "",
