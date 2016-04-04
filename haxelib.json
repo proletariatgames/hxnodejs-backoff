@@ -3,7 +3,7 @@
   "url": "https://github.com/proletariatgames/hxnodejs-backoff",
   "license": "MIT",
   "classPath": "src",
-  "tags": ["nodejs", "exponential", "fibonacci", "retry", "backoff"],
+  "tags": ["nodejs", "hxnodejs", "exponential", "fibonacci", "retry", "backoff"],
   "description": "Externs for the backoff NPM module",
   "releasenote": "Initial release",
   "version": "2.5.0-alpha",
